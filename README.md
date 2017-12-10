@@ -14,6 +14,8 @@ library("ReadGTF")
 Quick Start
 -----------
 
+This, work only with "Galaxy*****-[Cufflinks_on_data_*****__assembled_transcripts].gtf" files
+
 ``` r
 library("ReadGTF")
 # Don't forget to set your working directory.
